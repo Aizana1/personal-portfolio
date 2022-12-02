@@ -1,5 +1,6 @@
 # personal-portfolio
 Personal Portfolio Website using React
+## Published => https://aizana-portfolio.netlify.app/
 <img
   src="./src/assets/img/readme-photo.png"
   alt="Readme photo"
