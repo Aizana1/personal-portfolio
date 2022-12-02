@@ -415,7 +415,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 }
 @media (max-width:500px) {
 	.project .nav.nav-pills .nav-link {
-		font-size: 13px;
+		font-size: 12px;
 	}
 }
 /************ Projects Hover Css ************/ 
